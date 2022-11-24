@@ -1,7 +1,7 @@
 #! /bin/sh
 
 cd /tmp
-cp -rf /tmp/adguardhome/adguardhome /koolshare/
+cp -rf /tmp/adguardhome/adguardhome /koolshare/bin/
 cp -rf /tmp/adguardhome/scripts/* /koolshare/scripts/
 cp -rf /tmp/adguardhome/webs/* /koolshare/webs/
 cp -rf /tmp/adguardhome/res/* /koolshare/res/
