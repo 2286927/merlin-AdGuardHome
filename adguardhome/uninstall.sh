@@ -2,7 +2,7 @@
 
 sh /koolshare/adguardhome/adguardhome.sh stop
 
-rm -rf /koolshare/adguardhome
+rm -rf /koolshare/bin/adguardhome
 rm -rf /koolshare/perp/adguardhome
 rm -rf /koolshare/scripts/adguardhome_config.sh
 rm -rf /koolshare/scripts/adguardhome_bin_update.sh
